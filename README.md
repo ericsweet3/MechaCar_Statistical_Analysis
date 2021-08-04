@@ -1,6 +1,6 @@
 # MechaCar Statistical Analysis
 
-For this analysis, I explored MechaCar data and compared it versus its competitors to find what it did better than them. I worked with Excel files and loaded them into RStudio to parse through them and run statistical analysis'. You will find my findings below.
+For this analysis, I explored MechaCar data and compared it versus its competitors to find what it did better than them. I worked with Excel files and loaded them into RStudio to parse through them and run statistical analysis'. You will find my findings below, as well as an included picture.
 
 ## Linear Regression to Predict MPG
 
